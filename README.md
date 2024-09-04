@@ -9,4 +9,5 @@ Table of contents
 5. [Introduction to AlphaFold](https://colab.research.google.com/drive/1eDrb1ZvvpzhTLyjGi8KGUc-oDpMz042g?usp=sharing)
 6. [Geometric Neural Networks for Proteins](https://colab.research.google.com/drive/1VdnneRmaBTCfvZgnqZrfVR38xGKYTK2O?usp=sharing)
 7. [Denoising Diffusion Probabilistic Models](https://drive.google.com/file/d/1mqGxFB58gw_69eIAywfJKowwIpMiWUI4/view?usp=sharing)
-8. Introduction to RFDiffusion - All Atom
+8. Introduction to RFDiffusion - All Atom... What complex to do partial design? Example: 1TUP (P53 complexed with DNA)
+   
