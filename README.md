@@ -4,7 +4,7 @@ Table of contents
 
 1. Neural Networks with NumPy
 2. Neural Networks with PyTorch
-3. [Convolutional Neural Networks]([https://colab.research.google.com/drive/1u8OhKlsm_pcuB2vYWSR8JXQELY0YfDgq?usp=sharing](https://colab.research.google.com/drive/1EqY_dIc2PGViDKwCwZFqP1v7gh-55TEu?usp=sharing)
+3. [Convolutional Neural Networks](https://colab.research.google.com/drive/1EqY_dIc2PGViDKwCwZFqP1v7gh-55TEu?usp=sharing)
 4. Language Models for Shakespeare and Proteins
 5. [Language model embeddings transfer learning for downstream task](https://colab.research.google.com/drive/1u8OhKlsm_pcuB2vYWSR8JXQELY0YfDgq?usp=sharing)
 6. [Introduction to AlphaFold](https://colab.research.google.com/drive/1eDrb1ZvvpzhTLyjGi8KGUc-oDpMz042g?usp=sharing)
