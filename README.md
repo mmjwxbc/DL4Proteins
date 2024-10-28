@@ -2,7 +2,7 @@
 
 Table of contents
 
-1. Neural Networks with NumPy
+1. [Neural Networks with NumPy](https://colab.research.google.com/drive/1G5cRyvFFz8DoFMaiZ1WjoUGyYelcOK2x#scrollTo=v0Ur4-46nVmf)
 2. Neural Networks with PyTorch
 3. [Convolutional Neural Networks](https://colab.research.google.com/drive/1EqY_dIc2PGViDKwCwZFqP1v7gh-55TEu?usp=sharing)
 4. Language Models for Shakespeare and Proteins
