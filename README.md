@@ -10,4 +10,5 @@ Table of contents
 6. [Introduction to AlphaFold](https://colab.research.google.com/drive/1eDrb1ZvvpzhTLyjGi8KGUc-oDpMz042g?usp=sharing)
 7. [Graph Neural Networks for Proteins](https://colab.research.google.com/drive/1VdnneRmaBTCfvZgnqZrfVR38xGKYTK2O?usp=sharing)
 8. [Denoising Diffusion Probabilistic Models](https://colab.research.google.com/drive/1off5TdGgq00vxtBHOtPpPBBYwM_40UmH#scrollTo=q-41CCQNOt62)
-9. [Introduction to RFDiffusion - All Atom](https://colab.research.google.com/drive/1MXU2MNwKkjFlMjHM9R3NuqfdzwXyzl0q?usp=sharing)... What complex to do partial design? Example: (1TUP P53 complexed with DNA), (2GEQ protein complexed with DNA)
+9. [Putting it All Together - From RFDiffusion to ProteinMPNN to Alphafold](https://colab.research.google.com/drive/1RCar-Qt-TjfnRyMgzMSO-OKu7sFVR8hR?usp=sharing)
+10. [Introduction to RFDiffusion - All Atom](https://colab.research.google.com/drive/1MXU2MNwKkjFlMjHM9R3NuqfdzwXyzl0q?usp=sharing)... What complex to do partial design? Example: (1TUP P53 complexed with DNA), (2GEQ protein complexed with DNA)
