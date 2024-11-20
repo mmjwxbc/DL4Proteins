@@ -1,5 +1,7 @@
 # DL4Proteins Workshops
 
+NOTE rename "AIM: General AIMs" to "objectives"
+
 **Welcome to DL4Proteins!**
 
 Deep learning tools for proteins have exploded in performance (and popularity). They greatly strengthen and diversify the tool kit for the modern protein engineer.
