@@ -25,4 +25,4 @@ The Jupyter notebooks below provide an introduction to the fundamental machine l
 
 If you have any issues, please put into [Issue](https://github.com/Graylab/DL4Proteins-notebooks/issues). This is a living repository - we are actively incorporating feedback!
 
-Authors: Michael, Britnie, Puvada, Gabe, Courtney
+Authors: Michael Chungyoun, Britnie Carpentier, Puvada Sreevarsha, Gabe Au, Courtney Thomas
