@@ -9,8 +9,6 @@ REMOVE: Deep learning tools for proteins have exploded in performance (and popul
 
 The Jupyter notebooks below provide an introduction to the fundamental machine learning concepts and models currently utilized in the protein design space. Notebooks can be run in Google Colaboratory.
 
-To learn more about this project, check out our preprint (LINK).
-
 ### Table of contents
 ### Chapter 0: How to Get Started (LINK) (colab and local, rockfish in appendix)
 
@@ -26,3 +24,5 @@ To learn more about this project, check out our preprint (LINK).
 ### [Chapter 10: Introduction to RFDiffusion - All Atom](https://colab.research.google.com/drive/1MXU2MNwKkjFlMjHM9R3NuqfdzwXyzl0q?usp=sharing)
 
 If you have any issues, please put into [Issue](https://github.com/Graylab/DL4Proteins-notebooks/issues). This is a living repository - we are actively incorporating feedback!
+
+Authors: Michael, Britnie, Puvada, Gabe, Courtney
