@@ -23,6 +23,6 @@ The Jupyter notebooks below provide an introduction to the fundamental machine l
 ### [Chapter 9: Putting it All Together - From RFDiffusion to ProteinMPNN to Alphafold](https://colab.research.google.com/drive/1SaAbRZTA7Uf-arLrOHbAkzJo52N1q2tW?usp=sharing)
 ### [Chapter 10: Introduction to RFDiffusion - All Atom](https://colab.research.google.com/drive/1MXU2MNwKkjFlMjHM9R3NuqfdzwXyzl0q?usp=sharing)
 
-If you have any issues, please put into [Issue](https://github.com/Graylab/DL4Proteins-notebooks/issues). This is a living repository - we are actively incorporating feedback!
+If you have any issues, please put into [Issues tab](https://github.com/Graylab/DL4Proteins-notebooks/issues). This is a living repository - we are actively incorporating feedback!
 
-Authors: Michael Chungyoun, Sreevarsha Puvada, Gabe Au, Courtney Thomas, Britnie Carpentier, Jeffrey Gray
+Authors: Michael F. Chungyoun, Sreevarsha Puvada, Gabriel Au, Courtney Thomas, Britnie J. Carpentier, Jeffrey J. Gray
