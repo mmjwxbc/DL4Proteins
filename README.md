@@ -9,7 +9,7 @@ The Jupyter notebooks below provide an introduction to some of the fundamental m
 To learn more about this project, check out our preprint (LINK).
 
 ### Table of contents
-### Chapter 0: How to Get Started (LINK)
+### Chapter 0: How to Get Started (LINK) (colab and local, rockfish in appendix)
 
 ### [Chapter 1: Neural Neural Networks with NumPy](https://colab.research.google.com/drive/1VZacj1tFvsaUumjlbPCzr2iZ61-YPCs9?usp=sharing)
 ### [Chapter 2: Neural Networks with PyTorch](https://drive.google.com/file/d/1Ic0lWZqSR4BhwuVNXUyFr92hOShh01z6/view?usp=sharing)
