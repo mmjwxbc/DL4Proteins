@@ -26,3 +26,5 @@ The Jupyter notebooks below provide an introduction to the fundamental machine l
 If you have any issues, please put into [Issues tab](https://github.com/Graylab/DL4Proteins-notebooks/issues). This is a living repository - we are actively incorporating feedback!
 
 Authors: Michael F. Chungyoun, Sreevarsha Puvada, Gabriel Au, Courtney Thomas, Britnie J. Carpentier, Jeffrey J. Gray
+
+Acknowledgments: Sergey Lyskov for notebook troubleshooting, Sergey Ovchinnikov, Johns Hopkins students of 2023 540.614/414 Protein Structure Prediction course (add acknolwedgments for any resource we used in created notebooks)
