@@ -2,9 +2,12 @@
 
 **Welcome to DL4Proteins!**
 
-Deep learning tools for proteins have exploded in performance (and popularity). They greatly strengthen and diversify the tool kit for the modern protein engineer.
 
-The Jupyter notebooks below provide an introduction to some of the fundamental machine learning concepts and models utilized in the protein design space. To execute any of the notebooks either locally or in Google Colaboratory, please see Chapter 0 for setup instructions.
+Remove sentence below. Replace with impact statement of DL tools in protein design and prediction tasks.
+
+REMOVE: Deep learning tools for proteins have exploded in performance (and popularity). They greatly strengthen and diversify the tool kit for the modern protein engineer.
+
+The Jupyter notebooks below provide an introduction to the fundamental machine learning concepts and models currently utilized in the protein design space. Notebooks can be run in Google Colaboratory.
 
 To learn more about this project, check out our preprint (LINK).
 
