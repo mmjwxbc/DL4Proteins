@@ -5,7 +5,7 @@
 
 * Impact statement of DL tools in protein design and prediction tasks *
 
-For figures to display correctly, please set colab notebooks to light mode.
+For figures and questions to render correctly, please set colab notebooks to light mode.
 
 The Jupyter notebooks below provide an introduction to the fundamental machine learning concepts and models currently utilized in the protein design space. Notebooks can be run in Google Colaboratory.
 
