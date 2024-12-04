@@ -10,8 +10,6 @@ For figures to display correctly, please set colab notebooks to light mode.
 The Jupyter notebooks below provide an introduction to the fundamental machine learning concepts and models currently utilized in the protein design space. Notebooks can be run in Google Colaboratory.
 
 ### Table of contents
-### Chapter 0: How to Get Started (LINK) (colab and local, rockfish in appendix)
-
 ### [Chapter 1: Neural Neural Networks with NumPy](https://colab.research.google.com/drive/1VZacj1tFvsaUumjlbPCzr2iZ61-YPCs9?usp=sharing)
 ### [Chapter 2: Neural Networks with PyTorch](https://drive.google.com/file/d/1Ic0lWZqSR4BhwuVNXUyFr92hOShh01z6/view?usp=sharing)
 ### [Chapter 3: Convolutional Neural Networks](https://colab.research.google.com/drive/1EqY_dIc2PGViDKwCwZFqP1v7gh-55TEu?usp=sharing)
