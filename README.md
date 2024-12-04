@@ -3,9 +3,9 @@
 **Welcome to DL4Proteins!**
 
 
-Remove sentence below. Replace with impact statement of DL tools in protein design and prediction tasks.
+* Impact statement of DL tools in protein design and prediction tasks *
 
-REMOVE: Deep learning tools for proteins have exploded in performance (and popularity). They greatly strengthen and diversify the tool kit for the modern protein engineer.
+For figures to display correctly, please set colab notebooks to light mode.
 
 The Jupyter notebooks below provide an introduction to the fundamental machine learning concepts and models currently utilized in the protein design space. Notebooks can be run in Google Colaboratory.
 
@@ -27,4 +27,4 @@ If you have any issues, please put into [Issues tab](https://github.com/Graylab/
 
 Authors: Michael F. Chungyoun, Sreevarsha Puvada, Gabriel Au, Courtney Thomas, Britnie J. Carpentier, Jeffrey J. Gray
 
-Acknowledgments: Sergey Lyskov, Sergey Ovchinnikov, Johns Hopkins students of 2023 540.614/414 Protein Structure Prediction course, Johns Hopkins Center for Teaching Excellence and Innovation - Instructional Enhancement Grant, ..., (add acknolwedgments for any resource we used in created notebooks
+Acknowledgments: Sergey Lyskov, Sergey Ovchinnikov, Johns Hopkins students of 2023 540.614/414 Protein Structure Prediction course, and the Johns Hopkins Center for Teaching Excellence and Innovation - Instructional Enhancement Grant.
