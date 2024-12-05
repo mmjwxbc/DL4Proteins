@@ -1,4 +1,4 @@
-# DL4Proteins Workshops
+# DL4Proteins Workshops (Beta release)
 
 **Welcome to DL4Proteins!**
 
