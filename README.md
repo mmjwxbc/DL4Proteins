@@ -26,4 +26,8 @@ If you have any issues, please put into [Issues tab](https://github.com/Graylab/
 
 Authors: Michael F. Chungyoun, Sreevarsha Puvada, Gabriel Au, Courtney Thomas, Britnie J. Carpentier, Jeffrey J. Gray
 
-Acknowledgments: Sergey Lyskov, Sergey Ovchinnikov, Johns Hopkins students of 2023 540.614/414 Protein Structure Prediction course, and the Johns Hopkins Center for Teaching Excellence and Innovation - Instructional Enhancement Grant. ADD SOMETHING ABOUT EACH NOTEBOOK PULLING FROM OTHER ONLINE SOURCES WITED WITHIN INDIVIDUAL NOTEBOOKS - DO YOU WANT TO CALL-OUT TO SOME OF THE MAIN ONES HERE TOO?
+Acknowledgments: Sergey Lyskov, Sergey Ovchinnikov, Johns Hopkins students of 2023 540.614/414 Protein Structure Prediction course, and the Johns Hopkins Center for Teaching Excellence and Innovation - Instructional Enhancement Grant.
+
+Citations and Additional Resources: Each notebook in this repository draws inspiration and methodologies from various cutting-edge resources, including prominent online tools, education resources, publications, and open-source repositories. Key resources include YouTube series by sentdex, Andrej Karpathy, and Petar Veličković. These are cited within their respective notebooks, and we encourage users to explore these foundational works for deeper insights.
+
+We are actively incorporating feedback and continuously improving this repository. For questions or suggestions, please submit them in the Issues tab.
