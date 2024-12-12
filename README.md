@@ -11,16 +11,16 @@ The Jupyter notebooks below provide an introduction to the fundamental machine l
 **For figures and questions to render correctly, please set colab notebooks to light mode.
 
 ### Table of contents
-### [Chapter 1: Neural Networks with NumPy](https://colab.research.google.com/drive/1VZacj1tFvsaUumjlbPCzr2iZ61-YPCs9?usp=sharing)
-### [Chapter 2: Neural Networks with PyTorch](https://drive.google.com/file/d/1Ic0lWZqSR4BhwuVNXUyFr92hOShh01z6/view?usp=sharing)
-### [Chapter 3: Convolutional Neural Networks](https://colab.research.google.com/drive/1EqY_dIc2PGViDKwCwZFqP1v7gh-55TEu?usp=sharing)
-### [Chapter 4: Language Models for Shakespeare and Proteins](https://drive.google.com/file/d/1zAvi6N8k5h5CQsTT4OYZjT1ng-ZzjXvW/view?usp=sharing)
-### [Chapter 5: Language model embeddings transfer learning for downstream task](https://colab.research.google.com/drive/1lQ6GmfB-CjazkhRfOUO7ejqXVMBHFbK_?usp=sharing)
-### [Chapter 6: Introduction to AlphaFold](https://colab.research.google.com/drive/1ASjvxU1ebAMzkLU4AU1RU-BOLYvnfRto?usp=sharing)
-### [Chapter 7: Graph Neural Networks for Proteins](https://colab.research.google.com/drive/1VdnneRmaBTCfvZgnqZrfVR38xGKYTK2O?usp=sharing)
-### [Chapter 8: Denoising Diffusion Probabilistic Models](https://colab.research.google.com/drive/15fCPiDjSJnvPTwhM8jWoKIAuJmGP4vsj?usp=sharing)
-### [Chapter 9: Putting it All Together - From RFDiffusion to ProteinMPNN to Alphafold](https://colab.research.google.com/drive/1SaAbRZTA7Uf-arLrOHbAkzJo52N1q2tW?usp=sharing)
-### [Chapter 10: Introduction to RFDiffusion - All Atom](https://colab.research.google.com/drive/1MXU2MNwKkjFlMjHM9R3NuqfdzwXyzl0q?usp=sharing)
+### [Chapter 1: Neural Networks with NumPy](https://github.com/Graylab/DL4Proteins-notebooks/blob/main/notebooks/WS01_NeuralNetworksWithNumpy.ipynb)
+### [Chapter 2: Neural Networks with PyTorch](https://github.com/Graylab/DL4Proteins-notebooks/blob/main/notebooks/WS02_NeuralNetworksWithPyTorch.ipynb)
+### [Chapter 3: Convolutional Neural Networks](https://github.com/Graylab/DL4Proteins-notebooks/blob/main/notebooks/WS03_ConvolutionalNeuralNetworks.ipynb)
+### [Chapter 4: Language Models for Shakespeare and Proteins](https://github.com/Graylab/DL4Proteins-notebooks/blob/main/notebooks/WS04_LMsForShakespeareAndProteins.ipynb)
+### [Chapter 5: Language model embeddings transfer learning for downstream task](https://github.com/Graylab/DL4Proteins-notebooks/blob/main/notebooks/WS05_LanguageModelEmbeddingsTransferLearningForDownstreamTask.ipynb)
+### [Chapter 6: Introduction to AlphaFold](https://github.com/Graylab/DL4Proteins-notebooks/blob/main/notebooks/WS06_IntroductionToAF.ipynb)
+### [Chapter 7: Graph Neural Networks for Proteins](https://github.com/Graylab/DL4Proteins-notebooks/blob/main/notebooks/WS07_GNNsForProteins.ipynb)
+### [Chapter 8: Denoising Diffusion Probabilistic Models](https://github.com/Graylab/DL4Proteins-notebooks/blob/main/notebooks/WS08_DenoisingDiffusionProbabilisticModels.ipynb)
+### [Chapter 9: Putting it All Together - From RFDiffusion to ProteinMPNN to Alphafold](https://github.com/Graylab/DL4Proteins-notebooks/blob/main/notebooks/WS09_PuttingItAllTogether_DesigningProteins.ipynb)
+### [Chapter 10: Introduction to RFDiffusion - All Atom](https://github.com/Graylab/DL4Proteins-notebooks/blob/main/notebooks/WS10_RFDiffusion_AllAtom.ipynb)
 
 If you have any issues, please put into [Issues tab](https://github.com/Graylab/DL4Proteins-notebooks/issues). This is a living repository - we are actively incorporating feedback!
 
