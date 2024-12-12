@@ -11,7 +11,7 @@ The Jupyter notebooks below provide an introduction to the fundamental machine l
 **For figures and questions to render correctly, please set colab notebooks to light mode.
 
 ### Table of contents
-### [Chapter 1: Neural Networks with NumPy](https://github.com/Graylab/DL4Proteins-notebooks/blob/main/notebooks/WS01_NeuralNetworksWithNumpy.ipynb)
+### [Chapter 1: Neural Networks with NumPy](https://colab.research.google.com/github/Graylab/DL4Proteins-notebooks/blob/main/notebooks/WS01_NeuralNetworksWithNumpy.ipynb)
 ### [Chapter 2: Neural Networks with PyTorch](https://github.com/Graylab/DL4Proteins-notebooks/blob/main/notebooks/WS02_NeuralNetworksWithPyTorch.ipynb)
 ### [Chapter 3: Convolutional Neural Networks](https://github.com/Graylab/DL4Proteins-notebooks/blob/main/notebooks/WS03_ConvolutionalNeuralNetworks.ipynb)
 ### [Chapter 4: Language Models for Shakespeare and Proteins](https://github.com/Graylab/DL4Proteins-notebooks/blob/main/notebooks/WS04_LMsForShakespeareAndProteins.ipynb)
